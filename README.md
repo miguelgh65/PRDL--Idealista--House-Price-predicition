@@ -1,0 +1,3 @@
+This code provides a dual functionality using Idealista's database. Firstly, leveraging linear regression models, it predicts the housing price based on a range of influencing factors. This predictive analysis helps users anticipate the market value of properties in different locations. Secondly, the code classifies a property based on its category, such as apartment, villa, chalet, etc. This classification aids potential buyers or renters in narrowing down their search based on specific property types. Together, these features offer a comprehensive tool for individuals looking to navigate the real estate market with data-driven insights.
+
+I hope this fits your needs. Let me know if you'd like any adjustments!
